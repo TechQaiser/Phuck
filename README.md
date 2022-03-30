@@ -34,6 +34,6 @@ git clone https://github.com/TechQaiser/Phuck
 
 cd Phuck
 
+chmod 777 Qaiser
 
-
-python Qaiser.py
+./Qaiser
